@@ -4,8 +4,8 @@ In this publication, we show that the neuropeptide *pth2* is upregulated by the 
 
 This repository contains two files. One of them is a MATLAB script that we used to activate a piezo actuator with particular activation and pause periods aking to actual zebrafish locomotion features. The other one contains all delta Ct values we obtained by qPCR and used for statistical analysis.
 
-## Figure 4
+## MATLAB Script for mechanical stimulation via a piezo actuator (as described in figure 4)
 We describe how mechanical stimulation can activate pth2 transcription. The accompanying code to activate a piezo mechanical stimulator is provided here. 
 
-## Statistical Analysis
-All values are provided in the supplementary table S2. Here, we additionally provide all analysis code. 
+## iPython Notebook for the statistical analysis of qPCR data
+All values are provided in the supplementary table S2 in the accompanying publication. Here, we additionally provide all analysis code. 
